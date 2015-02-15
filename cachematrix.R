@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## A pair of functions that demonstrate caching of an inverse version of a
+## passed matrix
+
 
 ##This function is used to create a cacheable version 
 ##of the inverse of the passed matrix
